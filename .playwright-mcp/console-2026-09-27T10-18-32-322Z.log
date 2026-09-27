@@ -1,0 +1,1 @@
+[    1811ms] [WARNING] Highcharts warning: Consider including the "accessibility.js" module to make your chart more usable for people with disabilities. Set the "accessibility.enabled" option to false to remove this warning. See https://www.highcharts.com/docs/accessibility/accessibility-module. @ https://bscscan.com/assets/highcharts-12.6/highcharts.js?v=26.9.3.0:9

@@ -1,0 +1,7 @@
+[    3368ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;1,300&display=swap' with computed SHA-512 integrity 'pyN2fAYv8iWVgWLbhOC9q5lf/F2zStFl+fNl8N9eclOEPHYCYNkhGFsbRqX1dLh6Nn6y53h/g27LrhsZuqOvcA=='. The resource has been blocked. @ https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2819626.aspx:59
+[    3368ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'https://fonts.googleapis.com/css2?family=PT+Sans&display=swap' with computed SHA-512 integrity 'sFHVSGDPsqw3poq07XYZ9R6wHzim3ogEd316AHd4dl9ymri1g0ij/72uEQVZkpe8gOhIUak8jXj4bX1DluS1aQ=='. The resource has been blocked. @ https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2819626.aspx:59
+[    3661ms] [LOG] 89 @ https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2819626.aspx:1238
+[    3661ms] [LOG] 97 @ https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2819626.aspx:1238
+[    3661ms] [LOG] 68 @ https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2819626.aspx:1238
+[    3661ms] [LOG] 72 @ https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2819626.aspx:1238
+[    3661ms] [LOG] 114 @ https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2819626.aspx:1238
