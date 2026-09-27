@@ -15,6 +15,23 @@ Dicek ulang 27 Sep 2026. Semua angka di deck ada di `lib/sources.ts`; file ini d
 | 7 | Megadewandanu, S., Suyoto, & Pranowo (2016). *Exploring mobile wallet adoption in Indonesia using UTAUT2: An approach from consumer perspective*. 2nd ICST, IEEE. doi:10.1109/ICSTC.2016.7877340 | Habit prediktor terkuat, n=372 | ⬇️ manual (IEEE Xplore; login kampus) |
 | 8 | Widodo, M., Irawan, M. I., & Sukmono, R. A. (2019). *Extending UTAUT2 to Explore Digital Wallet Adoption in Indonesia*. ICOIACT 2019, IEEE. doi:10.1109/ICOIACT46704.2019.8938415 | Habit prediktor terkuat | ⬇️ manual (IEEE Xplore; login kampus) |
 
+### Tambahan dari daftar referensi JISTech (dicek 27 Sep 2026)
+
+| # | Sitasi | Dipakai untuk | PDF |
+|---|---|---|---|
+| 9 | Krombholz, K., Judmayer, A., Gusenbauer, M., & Weippl, E. (2016). *The Other Side of the Coin: User Experiences with Bitcoin Security and Privacy*. Financial Cryptography and Data Security, LNCS 9603. doi:10.1007/978-3-662-54970-4_33 | 22,5% dari 990 user pernah kehilangan bitcoin/kunci (slide Analysis) | ✅ `2016_Krombholz_…pdf` |
+| 10 | Eskandari, S., Barrera, D., Stobert, E., & Clark, J. (2018). *A First Look at the Usability of Bitcoin Key Management*. NDSS USEC 2018. arXiv:1802.04351 | Latar: manajemen kunci = masalah usability (tidak dikutip angka) | ✅ `2018_Eskandari_…pdf` |
+| 11 | Sweller, J. (1988). *Cognitive Load During Problem Solving: Effects on Learning*. Cognitive Science, 12(2), 257–285. doi:10.1207/s15516709cog1202_4 | Dasar teori callout "more steps → more cognitive load" | ⬇️ manual (Wiley, berbayar) |
+| 12 | Moniruzzaman, M., Chowdhury, F., & Ferdous, M. S. (2020). *Examining Usability Issues in Blockchain-Based Cryptocurrency Wallets*. Cyber Security and Computer Science (ICONCS), LNICST 325. doi:10.1007/978-3-030-52856-0_50 | Cadangan, tidak dikutip | ⬇️ manual (Springer, berbayar) |
+
+**Tidak dipakai dari daftar itu:**
+- [10] Karimi (2016): **fiktif**. DOI-nya milik paper lain (Kujala dkk., soal distraksi pengemudi).
+- [1] ASERS (2024): tidak ketemu di Crossref.
+- [3] BC Vault, [7] Cyfrin, [21] Wepin: blog vendor, bukan sumber kredibel.
+- [17] Paramitha (ResearchGate): tidak jelas venue-nya.
+- [2] BI 2024, [5] Chainalysis 2024, [20] We Are Social 2024, [22] Findex 2021, [4] Chainalysis 2023: sudah ada versi lebih baru (BI 2026, Chainalysis 2026, Digital 2026, Findex 2025, Tsuchiya 2025).
+- [9] Hevner, [12] Mayer, [14]–[15] Nielsen, [16] Paas, [19] Sweller 2019: asli, tapi metodologi/teori umum, nggak nambah apa-apa buat pitch.
+
 ## Laporan & data resmi (`reports/`) — semua primer
 
 | Sumber | Angka | File |
@@ -28,6 +45,7 @@ Dicek ulang 27 Sep 2026. Semua angka di deck ada di `lib/sources.ts`; file ini d
 | **GSMA**, press release *State of the Industry Report on Mobile Money 2026* | 2,3 miliar akun terdaftar | `2026_GSMA_…pdf` |
 | **World Bank**, *Remittance Prices Worldwide* Issue 54 (Q3 2025) | Global 6,36%, digital 4,59%, non-digital 7,30% | ⬇️ manual: https://remittanceprices.worldbank.org/sites/default/files/2026-04/RPW_main_report_and_annex_Q325.pdf (blok bot) |
 
+| **World Bank, Global Findex 2025** (press release 16 Jul 2025) | 1,3 miliar tanpa akun; ±900 juta di antaranya punya HP, 530 juta smartphone | `2025-07-16_WorldBank_Global-Findex-2025_press-release.pdf` |
 | **World Bank RPW, koridor Malaysia → Indonesia** (Q3 2025, MYR 610) | Rata-rata 4,80%; CBL 1,29%, Wise 1,75%, WU agen 2,03% | `2025-Q3_WorldBank_RPW_Corridor-Malaysia-Indonesia.pdf` |
 | **BscScan Gas Tracker** (Sep 2026) | Transfer BEP-20 ±$0,003 | `2026-09_BscScan_Gas-Tracker.pdf` |
 | **Privy pricing** | $0,05/MAU + $0,01/signature di atas batas | `2026_Privy_Pricing.pdf` |

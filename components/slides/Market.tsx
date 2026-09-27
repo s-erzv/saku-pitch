@@ -21,7 +21,7 @@ const R_MAX = 270;
 
 const SIGNALS = [
   { big: "+77.5%", title: "Stablecoins already cross borders", body: "to $220.3B globally in a year; average payment ≈ $3,000, sized like remittances, not trades.", by: "Chainalysis", src: "2026, global" },
-  { big: "#10", title: "Indonesia, cross-border flows", body: "out of 117 countries in the 2026 adoption index sub-ranking.", by: "Chainalysis", src: "2026" },
+  { big: "900M", title: "Unbanked, but already on a phone", body: "of the 1.3B adults with no account own a mobile phone; 530M have a smartphone.", by: "World Bank", src: "Global Findex 2025" },
   { big: "7% → 3%", title: "Phone money forces prices down", body: "Kenyan transfer commissions, 2003–2010, as M-Pesa pushed rivals like Western Union to cut prices.", by: "Mbiti & Weil", src: "NBER WP 17129, 2011" },
 ];
 

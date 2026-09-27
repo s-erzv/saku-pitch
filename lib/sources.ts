@@ -43,6 +43,25 @@ export const SOURCES = {
     note: "Widodo sample size not verified; not quoted.",
     checked: "2026-09-27",
   },
+  krombholz: {
+    figure: "22.5% of 990 surveyed Bitcoin users had lost bitcoins or keys at least once; 43.2% of those blamed their own mistake",
+    by: "Krombholz, Judmayer, Gusenbauer & Weippl, Financial Cryptography 2016 (LNCS 9603, pub. 2017)",
+    url: "https://doi.org/10.1007/978-3-662-54970-4_33",
+    checked: "2026-09-27",
+  },
+  findex2025: {
+    figure: "1.3B adults lack an account; ~900M of them own a mobile phone, 530M a smartphone; 86% of adults own a phone",
+    by: "World Bank, Global Findex Database 2025 (press release 16 Jul 2025)",
+    url: "https://www.worldbank.org/en/news/press-release/2025/07/16/mobile-phone-technology-powers-saving-surge-in-developing-economies",
+    checked: "2026-09-27",
+  },
+  sweller: {
+    figure: "Problem solving with many interacting elements imposes cognitive load that crowds out the task itself",
+    by: "Sweller, Cognitive Science 12(2), 1988",
+    url: "https://doi.org/10.1207/s15516709cog1202_4",
+    note: "Theory backing, not a measured figure. Paywalled; no PDF in resources.",
+    checked: "2026-09-27",
+  },
   mentalModels: {
     figure: "Users' mental models of keys/anonymity are wrong; keys mismanaged",
     by: "Mai et al., USENIX SOUPS 2020 (N=29)",

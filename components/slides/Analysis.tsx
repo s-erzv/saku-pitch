@@ -10,9 +10,9 @@ const FINDINGS = [
   },
   {
     title: "People Think in Names, Not Hashes",
-    body: "Users hold wrong mental models of keys and anonymity, then mismanage private keys. Wallets don't correct those models.",
+    body: "Users hold wrong mental models of keys and anonymity, then mismanage them: 22.5% of 990 Bitcoin users surveyed had lost coins or keys at least once.",
     by: "Mai et al.",
-    src: "USENIX SOUPS 2020 (N=29)",
+    src: "USENIX SOUPS 2020 (N=29) · Krombholz et al., Financial Cryptography 2016 (n=990)",
   },
   {
     title: "Stuck Before You Start",
@@ -24,7 +24,7 @@ const FINDINGS = [
 
 const STATS = [
   { big: "69.3M", body: "QRIS users by Aug 2026, about a quarter of Indonesians", by: "Bank Indonesia", src: "Press release 28/196/DKom, 24 Sep 2026" },
-  { big: "9 in 10", body: "Indonesian internet users are on WhatsApp every month", by: "We Are Social & Meltwater", src: "Digital 2026: Indonesia (Nov 2025)" },
+  { big: "9 in 10", body: "Indonesian internet users are on WhatsApp every month", by: "We Are Social & Meltwater", src: "Digital 2026: Indonesia" },
   { big: "2.3B", body: "mobile money accounts worldwide, keyed to a phone number", by: "GSMA", src: "State of the Industry 2026" },
 ];
 
@@ -79,8 +79,9 @@ export default function Analysis() {
           className="absolute top-[-64px] left-[11px] w-[650px] max-w-none"
         />
       </div>
-      <Callout className="absolute top-[696px] left-[1222px] w-[673px] bg-white px-5 py-2 text-center text-[18px] whitespace-nowrap">
-        More steps → more irreversible decisions → more transaction anxiety
+      <Callout className="absolute top-[696px] left-[1222px] w-[673px] bg-white px-4 py-2 text-center text-[17px] whitespace-nowrap">
+        More steps → more irreversible choices → more cognitive load{" "}
+        <span className="text-[12.5px] font-light text-mute">(Sweller, 1988)</span>
       </Callout>
 
       <div className="absolute top-[758px] left-[1222px] h-[302px] w-[300px] overflow-hidden rounded-[26px] border-[2.5px] border-or bg-white">
