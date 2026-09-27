@@ -25,11 +25,3 @@ npm run dev        # http://localhost:3000
 | `lib/sources.ts` | Every figure in the deck with its source and the date it was checked. |
 | `public/assets/` | Mascot, brush shapes, illustrations and v2 app screens (webp). |
 | `resources/` | PDF jurnal & laporan yang jadi sumber angka di deck, plus daftar sitasinya (`resources/README.md`). |
-
-## Before you pitch
-
-Every external figure was re-checked on 27 Sep 2026 (links in `lib/sources.ts`). Still worth doing:
-
-- Every external figure now points at a primary source (KSSK/BI press releases, BI SEKI, World Bank, papers); PDFs are in `resources/`. Paywalled or bot-blocked papers (marked ⬇️ manual in `resources/README.md`) still need a download through a browser or campus login.
-- Chainalysis flow figures on the Problem slide are global, and labelled so. Don't present them as Indonesia's.
-- Saku's ≈2.5% end-to-end cost uses the default fees in `saku/web/lib/fees.ts`; the rupiah leg is simulated, so partner costs are not in it yet.
