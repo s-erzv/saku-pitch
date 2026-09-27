@@ -50,7 +50,7 @@ Dicek ulang 27 Sep 2026. Semua angka di deck ada di `lib/sources.ts`; file ini d
 | **BscScan Gas Tracker** (Sep 2026) | Transfer BEP-20 ±$0,003 | `2026-09_BscScan_Gas-Tracker.pdf` |
 | **Privy pricing** | $0,05/MAU + $0,01/signature di atas batas | `2026_Privy_Pricing.pdf` |
 
-Jawaban latihan buat pertanyaan juri: `jawaban-juri.md`.
+Jawaban latihan buat pertanyaan juri: bagian **FAQ** di `README.md` root.
 
 `reports/secondary/` isinya berita media (CNBC, ANTARA, Liputan6, Kontan, Campaign Brief) yang dulu dipakai. Cuma buat arsip, udah nggak dikutip di deck.
 
